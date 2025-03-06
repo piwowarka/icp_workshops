@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import Icp from "./components/Icp.vue";
-import Calculator from "./components/Calculator.vue";
+import Icp from "./components/ICP.vue";
+import Calculator from "./components/calculator.vue";
 
 export default {
   name: "App",
